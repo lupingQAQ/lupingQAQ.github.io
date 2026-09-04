@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://lupingqaq.github.io/red-team-skill-tree/sitemap.xml
+Sitemap: https://lupingqaq.github.io/impacket-programming-manual/sitemap.xml
